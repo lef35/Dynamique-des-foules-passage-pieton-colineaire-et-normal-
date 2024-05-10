@@ -1,4 +1,5 @@
 # Dynamique-des-foules-passage-pieton-colineaire-et-normal-
+#cette code se base sur les traveaux au sein de chapitre 10 du livre ecrit par Paul Charbonneau entitule Natural Complexity Modeling and HandBook 
 Crowd Dynamics Simulation Project
 
 Welcome to our Crowd Dynamics Simulation project repository! This project focuses on the study of crowd behavior in emergency and regular scenarios using computational simulations. Crowd dynamics is a field that explores how groups of people interact in various spaces, particularly under conditions that might prompt complex behaviors, such as evacuations or crossings.
